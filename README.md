@@ -46,11 +46,12 @@ The **Social Network Recommendation System** is a machine learning-based system 
 
 ## Link To Share : 
 ```
-- https://stone-plate-5d7.notion.site/Tutoriel-A-Guide-on-Social-Network-Recommendation-System-1a7f9267b2a580319c03cefc11f42cf6
+https://stone-plate-5d7.notion.site/Tutoriel-A-Guide-on-Social-Network-Recommendation-System-1a7f9267b2a580319c03cefc11f42cf6
 ```
 ## Author
 **ABDELHAFID KHALIL 
 Final Year Project Master IAII**
+
 
 
 
